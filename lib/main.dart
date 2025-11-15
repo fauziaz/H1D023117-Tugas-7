@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
       title: 'H1D023117 Tugas 7',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        primaryColor: const Color(0xFF800020), // Burgundy
+        primaryColor: const Color(0xFF800020),
         scaffoldBackgroundColor: Colors.grey[100],
         colorScheme: ColorScheme.fromSeed(seedColor: const Color(0xFF800020)),
         elevatedButtonTheme: ElevatedButtonThemeData(
